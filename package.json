@@ -1,0 +1,17 @@
+{
+  "name": "LepivertBot",
+  "version": "1.0.1",
+  "description": "Bot Discord L3 Info",
+  "author": "Quentin `Quinta_` V, Anne-Laure",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "jsdom": "^16.4.0",
+    "puppeteer": "^5.2.1",
+    "reddit-simple": "^2.1.1",
+    "request": "^2.88.2",
+    "require-reload": "^0.2.2"
+  }
+}
